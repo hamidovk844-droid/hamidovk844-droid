@@ -45,10 +45,6 @@
 ---
 
 ## 🌐 Connect with Me
-hamidovk844@gmail.com [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidovk844@gmail.com)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DevBrain&icon=0&color=0" alt="Profile Views" />
-</p>
+hamidovk844@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in) -->
